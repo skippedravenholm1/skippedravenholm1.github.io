@@ -6,12 +6,20 @@
     padding: 0;
 }
 
+.twitter-tweet {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 body
 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 14px;
     color: #999999;
     word-wrap:break-word;
+    background-image: url(https://wallpaper-house.com/data/out/6/wallpaper2you_105577.gif)
 }
 
 p
@@ -24,6 +32,7 @@ ul
 {
     list-style: none;
 }
+
 
 .container {
     width: 100%;
