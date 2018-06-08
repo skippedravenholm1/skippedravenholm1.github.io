@@ -57,6 +57,8 @@ ul
   overflow: hidden;
 }
 
+
+
 /* Dropdown button */
 .dropdown .dropbtn {
   font-size: 16px; 
@@ -128,13 +130,7 @@ ul
   font-size: 15px;
 }*/
 
-a, a:link, a:visited {
-  text-decoration: none;
-  padding: 9px 15px;
-  border: 1px solid #ececec;
-  border-radius: 5px;
-  color: gray;
-}
+
 
 .animate {
     font-size: 50px;
